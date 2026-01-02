@@ -7,4 +7,4 @@ nvda_incomestm = nvda.income_stmt
 key = "Basic EPS"
 # print(type(nvda_incomestm))
 print(nvda_incomestm)
-print(nvda_incomestm.loc(key))
+# print(nvda_incomestm.loc(key))
